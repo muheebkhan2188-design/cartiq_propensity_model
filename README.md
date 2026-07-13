@@ -67,3 +67,4 @@ python scripts/python/01_propensity_model.py
 
 4. Open Analytics Workspace
 Launch the .twbx module located within the dashboards/ directory to interface with the customer conversion matrix maps.
+<img width="1792" height="1089" alt="Screenshot 2026-07-13 at 23 28 23" src="https://github.com/user-attachments/assets/f588b620-d06a-4077-ba62-071cecba3e4e" />
