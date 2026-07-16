@@ -1,3 +1,5 @@
+<img width="218" height="150" alt="cartiq-thumbnail" src="https://github.com/user-attachments/assets/ab0f4808-1978-40c7-a82f-8aed17754d1e" />
+
 # CartIQ: E-Commerce Purchase Propensity Machine Learning Engine
 
 ## 📌 Project Overview
